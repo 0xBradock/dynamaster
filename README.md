@@ -1,5 +1,7 @@
 # DynaMaster 🧨
 
+# 🚧 WORK IN PROGRESS 🚧
+
 > 🪶Lightweight and 🔐Typed interaction with DynamoDB
 
 > For information on Dynamo SDK, visit [their docs](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/dynamodb/)
